@@ -43,6 +43,7 @@
     <ClInclude Include="11b.h" />
     <ClInclude Include="339d.h" />
     <ClInclude Include="58b.h" />
+    <ClInclude Include="692b.h" />
     <ClInclude Include="72a.h" />
     <ClInclude Include="88v.h" />
     <ClInclude Include="186.h" />

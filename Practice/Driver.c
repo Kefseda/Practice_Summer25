@@ -41,6 +41,9 @@ int main() {
 	case 10:
 		Start457();
 		break;
+	case 11:
+		Start692b();
+		break;
 	default:
 		printf("Такой задачи нету\n");
 		break;

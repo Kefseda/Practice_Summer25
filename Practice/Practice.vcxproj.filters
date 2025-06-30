@@ -88,5 +88,8 @@
     <ClInclude Include="186.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
+    <ClInclude Include="692b.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

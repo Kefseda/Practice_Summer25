@@ -6,10 +6,12 @@
 
 //Использовать программу, включающую рекурсивную процедуру вычисления f(n).
 
+//
 int g (int a, int c, int n) {
 	return a * (n + c) % 10;
 }
 
+//
 int f (int a, int c, int n) {
 	if (0 <= n <= 9) return n;
 	else return g(a, c, n) * f(a, c, n - 1 - g(a, c, n)) + n;

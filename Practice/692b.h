@@ -1,2 +1,2 @@
 #pragma once
-void Start692b;
+void Start692b();

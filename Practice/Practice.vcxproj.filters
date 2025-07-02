@@ -63,6 +63,9 @@
     <ClCompile Include="Driver.c">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="Matrix.c">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="481.c">
@@ -95,6 +98,12 @@
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
     <ClInclude Include="269b.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Matrix.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Start701a.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>

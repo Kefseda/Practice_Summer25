@@ -1,2 +1,9 @@
-﻿  269b.c
-  Practice.vcxproj -> C:\Users\Ivan\Practice_Summer25\Debug\Practice.exe
+﻿  374b.c
+C:\Users\Владимир\Documents\GitHub\Practice_Summer25\Practice\374b.c(13,8): warning C4013: printf: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Владимир\Documents\GitHub\Practice_Summer25\Practice\374b.c(14,9): warning C4013: scanf_s: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Владимир\Documents\GitHub\Practice_Summer25\Practice\374b.c(17,12): warning C4013: malloc: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Владимир\Documents\GitHub\Practice_Summer25\Practice\374b.c(17,31): warning C4047: =: "float **" отличается по уровням косвенного обращения от "int"
+C:\Users\Владимир\Documents\GitHub\Practice_Summer25\Practice\374b.c(19,35): warning C4047: =: "float *" отличается по уровням косвенного обращения от "int"
+C:\Users\Владимир\Documents\GitHub\Practice_Summer25\Practice\374b.c(25,31): warning C4244: функция: преобразование "int" в "float", возможна потеря данных
+C:\Users\Владимир\Documents\GitHub\Practice_Summer25\Practice\374b.c(39,7): warning C4013: free: нет определения; предполагается "extern" с возвратом типа "int"
+  Practice.vcxproj -> C:\Users\Владимир\Documents\GitHub\Practice_Summer25\Debug\Practice.exe

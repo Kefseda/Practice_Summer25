@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include<string.h>
-#include <locale.h>
 
 /* Автор: Дорожков И.А.
  * Задача 269b
@@ -10,16 +9,18 @@
  */
 
 void Start269b() {
+
 	int n;
-	char s[1000] = "апрапрп аавапвапвп аааап апааа";
+	char s[] = "торгпорс прса ригн опрпнпв ев";
 
 	//printf("Введите n ");
 	//scanf_s("%d", &n);
 
+	//длинна строки
 	n = strlen(s);
 
 	//printf("Введите строку: ");
-	//scanf_s("%s", &s, n);
+	//scanf_s("%s", &s);
 	printf("Вы ввели: %s\n", s);
 
 	int a = 0;

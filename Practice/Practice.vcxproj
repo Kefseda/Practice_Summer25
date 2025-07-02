@@ -35,6 +35,7 @@
     <ClCompile Include="844b.c" />
     <ClCompile Include="88v.c" />
     <ClCompile Include="Driver.c" />
+    <ClCompile Include="Matrix.c" />
   </ItemGroup>
   <ItemGroup>
     <None Include="481.c" />
@@ -49,6 +50,8 @@
     <ClInclude Include="72a.h" />
     <ClInclude Include="88v.h" />
     <ClInclude Include="186.h" />
+    <ClInclude Include="Matrix.h" />
+    <ClInclude Include="Start701a.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

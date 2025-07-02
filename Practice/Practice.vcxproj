@@ -41,7 +41,9 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="11b.h" />
+    <ClInclude Include="269b.h" />
     <ClInclude Include="339d.h" />
+    <ClInclude Include="457.h" />
     <ClInclude Include="58b.h" />
     <ClInclude Include="692b.h" />
     <ClInclude Include="72a.h" />

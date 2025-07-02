@@ -91,5 +91,11 @@
     <ClInclude Include="692b.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
+    <ClInclude Include="457.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="269b.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

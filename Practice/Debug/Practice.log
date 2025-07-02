@@ -1,12 +1,2 @@
-﻿  339d.c
-C:\Users\Владимир\Documents\GitHub\Practice_Summer25\Practice\339d.c(12,15): warning C4013: printf: нет определения; предполагается "extern" с возвратом типа "int"
-C:\Users\Владимир\Documents\GitHub\Practice_Summer25\Practice\339d.c(24,12): warning C4013: scanf_s: нет определения; предполагается "extern" с возвратом типа "int"
-C:\Users\Владимир\Documents\GitHub\Practice_Summer25\Practice\339d.c(26,15): warning C4013: malloc: нет определения; предполагается "extern" с возвратом типа "int"
-C:\Users\Владимир\Documents\GitHub\Practice_Summer25\Practice\339d.c(26,34): warning C4047: =: "float *" отличается по уровням косвенного обращения от "int"
-C:\Users\Владимир\Documents\GitHub\Practice_Summer25\Practice\339d.c(30,13): warning C4013: exit: нет определения; предполагается "extern" с возвратом типа "int"
-C:\Users\Владимир\Documents\GitHub\Practice_Summer25\Practice\339d.c(34,20): warning C4013: rand: нет определения; предполагается "extern" с возвратом типа "int"
-C:\Users\Владимир\Documents\GitHub\Practice_Summer25\Practice\339d.c(34,27): warning C4244: =: преобразование "int" в "float", возможна потеря данных
-C:\Users\Владимир\Documents\GitHub\Practice_Summer25\Practice\339d.c(56,9): warning C4013: free: нет определения; предполагается "extern" с возвратом типа "int"
-C:\Users\Владимир\Documents\GitHub\Practice_Summer25\Practice\339d.c(16,18): warning C4101: k: неиспользованная локальная переменная
-C:\Users\Владимир\Documents\GitHub\Practice_Summer25\Practice\339d.c(18,12): warning C4101: unique: неиспользованная локальная переменная
-  Practice.vcxproj -> C:\Users\Владимир\Documents\GitHub\Practice_Summer25\Debug\Practice.exe
+﻿  269b.c
+  Practice.vcxproj -> C:\Users\Ivan\Practice_Summer25\Debug\Practice.exe

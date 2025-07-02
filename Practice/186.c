@@ -26,7 +26,7 @@ void Start186()
 	scanf_s("%d", &n);
 
 
-	//
+	//выделение памяти для n действ чисел
 	a = malloc(n * sizeof(float));
 
 	if (a == NULL) {
@@ -50,5 +50,6 @@ void Start186()
 
 	printf("результат: %f\n", res);
 
+	//освобождение памяти
 	free(a);
 }

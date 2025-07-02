@@ -6,15 +6,13 @@
 
 //Использовать программу, включающую рекурсивную процедуру вычисления f(n).
 
-int g (int n) {
-	//return 
-		//ничего не понятно
+int g (int a, int c, int n) {
+	return a * (n + c) % 10;
 }
 
-int f (int n) {
-	if (0 <= n && n <= 9) return n;
-	//else 
-		//f:=((a \* n + c) mod 10) \* f(n - 1 - ((a \* n + c) mod 10)) + n;
+int f (int a, int c, int n) {
+	if (0 <= n <= 9) return n;
+	else return g(a, c, n) * f(a, c, n - 1 - g(a, c, n)) + n;
 }
 
 void Start457() {
@@ -28,4 +26,8 @@ void Start457() {
 
 	printf("Введите m ");
 	scanf_s("%d", &m);
+
+	int result = f(a, c, m);
+	
+	printf("Результат:%d ", result);
 }

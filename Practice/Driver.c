@@ -38,6 +38,12 @@ int main() {
 	case 6:
 		Start339d();
 		break;
+	case 7:
+		Start269b();
+		break;
+	case 8:
+		Start374b();
+		break;
 	case 10:
 		Start457();
 		break;

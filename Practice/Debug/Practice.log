@@ -1,9 +1,9 @@
-﻿  374b.c
-C:\Users\Владимир\Documents\GitHub\Practice_Summer25\Practice\374b.c(13,8): warning C4013: printf: нет определения; предполагается "extern" с возвратом типа "int"
-C:\Users\Владимир\Documents\GitHub\Practice_Summer25\Practice\374b.c(14,9): warning C4013: scanf_s: нет определения; предполагается "extern" с возвратом типа "int"
-C:\Users\Владимир\Documents\GitHub\Practice_Summer25\Practice\374b.c(17,12): warning C4013: malloc: нет определения; предполагается "extern" с возвратом типа "int"
-C:\Users\Владимир\Documents\GitHub\Practice_Summer25\Practice\374b.c(17,31): warning C4047: =: "float **" отличается по уровням косвенного обращения от "int"
-C:\Users\Владимир\Documents\GitHub\Practice_Summer25\Practice\374b.c(19,35): warning C4047: =: "float *" отличается по уровням косвенного обращения от "int"
-C:\Users\Владимир\Documents\GitHub\Practice_Summer25\Practice\374b.c(25,31): warning C4244: функция: преобразование "int" в "float", возможна потеря данных
-C:\Users\Владимир\Documents\GitHub\Practice_Summer25\Practice\374b.c(39,7): warning C4013: free: нет определения; предполагается "extern" с возвратом типа "int"
-  Practice.vcxproj -> C:\Users\Владимир\Documents\GitHub\Practice_Summer25\Debug\Practice.exe
+﻿  136b.c
+C:\Users\Ivan\Practice_Summer25\Practice\136b.c(13,24): warning C4013: malloc: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Ivan\Practice_Summer25\Practice\136b.c(13,1): warning C4047: инициализация: "Node *" отличается по уровням косвенного обращения от "int"
+C:\Users\Ivan\Practice_Summer25\Practice\136b.c(29,26): warning C4133: =: несовместимые типы - из "Node *" в "Node *"
+C:\Users\Ivan\Practice_Summer25\Practice\136b.c(32,21): warning C4133: =: несовместимые типы - из "Node *" в "Node *"
+C:\Users\Ivan\Practice_Summer25\Practice\136b.c(42,26): warning C4133: =: несовместимые типы - из "Node *" в "Node *"
+C:\Users\Ivan\Practice_Summer25\Practice\136b.c(55,26): warning C4133: =: несовместимые типы - из "Node *" в "Node *"
+C:\Users\Ivan\Practice_Summer25\Practice\136b.c(56,13): warning C4013: free: нет определения; предполагается "extern" с возвратом типа "int"
+  Practice.vcxproj -> C:\Users\Ivan\Practice_Summer25\Debug\Practice.exe

@@ -26,6 +26,7 @@
     <ClCompile Include="339d.c" />
     <ClCompile Include="374b.c" />
     <ClCompile Include="457.c" />
+    <ClCompile Include="481.c" />
     <ClCompile Include="498b.c" />
     <ClCompile Include="551b.c" />
     <ClCompile Include="58b.c" />
@@ -38,20 +39,20 @@
     <ClCompile Include="Matrix.c" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="481.c" />
-  </ItemGroup>
-  <ItemGroup>
     <ClInclude Include="11b.h" />
+    <ClInclude Include="136b.h" />
     <ClInclude Include="269b.h" />
     <ClInclude Include="339d.h" />
     <ClInclude Include="457.h" />
+    <ClInclude Include="481.h" />
+    <ClInclude Include="498b.h" />
     <ClInclude Include="58b.h" />
     <ClInclude Include="692b.h" />
     <ClInclude Include="72a.h" />
     <ClInclude Include="88v.h" />
     <ClInclude Include="186.h" />
     <ClInclude Include="Matrix.h" />
-    <ClInclude Include="Start701a.h" />
+    <ClInclude Include="701a.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

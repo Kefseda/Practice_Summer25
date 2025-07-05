@@ -36,7 +36,11 @@ void PrintMatrix(float** matrix, int size) {
 	}
 }
 
-//Метод для освобождения памяти от матрицы
+/**
+ * освобождение памяти от матрицы
+ * @param {float**} matrix - сама матрица
+ * @param {int} size - размер матрицы
+ */
 void FreeMatrix(float** matrix, int size) {
 	for (int i = 0; i < size; i++) {
 		free(matrix[i]);

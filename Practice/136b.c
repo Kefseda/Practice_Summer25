@@ -44,16 +44,16 @@ void PrintList(Node* head) {
     printf("\n");
 }
 
-float sum_list(tnode* head) {
-    float sum = 0.0; //< Сумма 
-    tnode* cur_node = head; //< Текущий узел
+float MultList(Node* head) {
+    float result = 0.0;
+    Node* cNode = head; //< Текущий узел
 
-    while (cur_node != NULL) {
-        sum = sum + cur_node->data;
-        cur_node = cur_node->next;
+    while (cNode != NULL) {
+        result *= cNode->value;
+        cNode = cNode->next;
     }
 
-    return sum;
+    return result;
 }
 
 void FreeList(Node* head) {
@@ -77,6 +77,8 @@ void Start136b() {
 
     PrintList(head);
 
-    FreeList(head);
-    PrintList(head);
+    float mult = MultList(head);
+    printf("%f",&mult);
+
+    //FreeList(head);
 }

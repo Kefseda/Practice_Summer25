@@ -12,7 +12,7 @@ void Start481() {
 
 	char* path = "C:/Users/Ivan/Desktop/test.txt";
 	FILE* fp;
-	int* u;
+	int* u;				//ÍÓÆÍÎ ÎÒÊÀÇÀÒÜÑß ÎÒ ÌÀÑÑÈÂÀ
 	int n;
 
 	printf("Ââåäèòå n ");

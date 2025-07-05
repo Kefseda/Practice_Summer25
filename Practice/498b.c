@@ -10,8 +10,9 @@
  * без ограничения на чило символов в слове.
  */
 
+//C:\Users\Владимир\Documents\GitHub\Practice_Summer25\Practice
 void Start498b() {
-	char* path = "C:/Users/Ivan/Desktop/haha.txt";
+	char* path = "hehe.txt";
 	char buffer[256];
 	FILE* fp;
 	char* p1;
